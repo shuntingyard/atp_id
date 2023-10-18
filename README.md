@@ -5,4 +5,4 @@ for the AT Protocol.
 
 ## Status
 
-Version 0.1.0 coming soon.
+Crate in early development.

@@ -2,7 +2,8 @@
 name = "atp_id"
 version = "0.1.0"
 edition = "2021"
-description = "A small library to support for the AT Protocol"
+description = "A small library to support Identity for the AT Protocol"
+repository = "https://github.com/shuntingyard/atp_id/"
 license = "GPL-2.0"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
