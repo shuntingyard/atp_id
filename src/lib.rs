@@ -1,14 +1,8 @@
-pub fn add(left: usize, right: usize) -> usize {
-    left + right
-}
+//! Package description here...
 
-#[cfg(test)]
-mod tests {
-    use super::*;
+//  mod handle;
 
-    #[test]
-    fn it_works() {
-        let result = add(2, 2);
-        assert_eq!(result, 4);
-    }
-}
+// TODO: re-export modules here.
+pub mod did;
+pub mod handle;
+// pub use crate::handle;
